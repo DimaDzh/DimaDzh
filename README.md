@@ -7,7 +7,8 @@
 - **Contact Information:**
   - **Phone:** 0505529544
   - **Email:** dzhartyds@gmail.com
-  - **LinkedIn:** [linkedin.com/in/dzhartyds](https://www.linkedin.com/in/dzhartyds)
+  - ![Static Badge](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdzhartyds)
+
   - **GitHub:** [github.com/DimaDzh](https://github.com/DimaDzh)
   - **Portfolio:** [dzhartyds-portfolio-nextjs.vercel.app](https://dzhartyds-portfolio-nextjs.vercel.app)
 

@@ -1,43 +1,21 @@
-# Dmytro Dzharty - Junior Front-end Developer
+<h1 align="center">Hi 👋, I'm Dzharty Dmytro</h1>
+<h3 align="center">Frontend developer from Kyiv, Ukraine</h3>
 
-## Contacts
+- 👨‍💻 All of my projects are available at [dzhartyds-portfolio-nextjs.vercel.app](dzhartyds-portfolio-nextjs.vercel.app)
 
-- **Name:** Dmytro Dzharty
-- **Position:** Junior Front-end Developer
-- **Contact Information:**
-  - **Phone:** 0505529544
-  - **Email:** dzhartyds@gmail.com
-  - ![Static Badge](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdzhartyds)
+- 📫 How to reach me **dzhartryds@gmail.com**
 
-  - **GitHub:** [github.com/DimaDzh](https://github.com/DimaDzh)
-  - **Portfolio:** [dzhartyds-portfolio-nextjs.vercel.app](https://dzhartyds-portfolio-nextjs.vercel.app)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dzhartyds/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/dzhartyds/" height="30" width="40" /></a>
+</p>
 
-## Professional Skills
 
-- **Front-end development:** NextJS, React, Zustand, Redux, Redux-Toolkit
-- **JavaScript:** ES5, ES6
-- **TypeScript**
-- **CMS:** StrapiJS
-- **UI, CSS-frameworks:** Tailwind CSS, Ant-Design, Material UI
-- **Adaptive cross-browser layout:** HTML5 and CSS3
-- **CSS preprocessors:** SASS
-- **Source Control:** Git
-- **Web-design program:** Figma
-- **Basic knowledge:** OOP, NodeJS, PostgreSQL
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## Experience
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimadzh&show_icons=true&locale=en&layout=compact" alt="dimadzh" /></p>
 
-- **Frontend Developer** at FRENCH4 DEV - 03.2023 – Present
-- **Deputy Head of Production** at TOB "Metakon", 03.2018-02.2022 - Building sector Kyiv
-- **Production Master** at TOB "Metakon", 06.2017 - 02.2018 - Building sector Kyiv
-
-## Education
-
-- **Front-end Developer Course** at A-level Ukraine, Kyiv, Ukraine, February 2022 - October 2022
-- **Master's Degree in Electrical Power Systems** at Donetsk National Technical University, Faculty of Electrical Engineering, Department of Electrical Systems, 2011-2017
-
-## Additional Information
-
-- **Languages:** English (B1: Speaking-B1, Reading-B2, Listening-B1, Writing-B1), Italian (In the process of study)
-- **Hobbies:** Foreign languages, football, reading professional literature, movies
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimadzh&show_icons=true&locale=en" alt="dimadzh" /></p>

@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dzharty Dmytro</h1>
 <h3 align="center">Frontend developer from Kyiv, Ukraine</h3>
 
-- 👨‍💻 All of my projects are available at <a href="https://dzhartyds-portfolio-nextjs.vercel.app/" target="_blank">dzhartyds-portfolio-nextjs.vercel.app/</a>
+- 👨‍💻 All of my projects are available at <a href="https://dzhartyds-portfolio-nextjs.vercel.app/" target="blank">dzhartyds-portfolio-nextjs.vercel.app/</a>
 
 - 📫 How to reach me **dzhartryds@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dzhartyds/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/dzhartyds/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dzhartyds/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/dzhartyds/" height="30" width="40" /></a>
 </p>
 
 

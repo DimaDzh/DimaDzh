@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dzharty Dmytro</h1>
 <h3 align="center">Front-end developer from Kyiv, Ukraine</h3>
 
-- 👨‍💻 All of my projects are available at <a href="https://dzhartyds-portfolio-nextjs.vercel.app/" target="blank">dzhartyds-portfolio-nextjs.vercel.app/</a>
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-dimadzh.vercel.app" target="blank">https://portfolio-dimadzh.vercel.app</a>
 
 - 📫 How to reach me **dzhartryds@gmail.com**
 

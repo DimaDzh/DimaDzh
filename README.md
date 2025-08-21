@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dzharty Dmytro</h1>
-<h3 align="center">Front-end developer from Kyiv, Ukraine</h3>
+<h3 align="center">Full-stack developer from Kyiv, Ukraine</h3>
 
 - 🌐 Here are some of the projects I've worked on:
   - [Groupe TLM](https://www.groupe-tlm.com): A French manufacturer of high-quality flexible flooring solutions.
